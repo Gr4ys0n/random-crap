@@ -5,4 +5,6 @@ No changes were made to this project. Listed under <a href="https://creativecomm
 
 Contact @Swarthyleader80 on discord, or make an issue on github if you want this taken down.
 
+Current version from 3/1/2025
+
 # <a href="https://slow-roads.pages.dev" target="_blank">PLAY HERE</a>
