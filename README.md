@@ -9,4 +9,6 @@ Current version from 3/1/2025
 
 This will only work if you host it on cloudflare pages
 
+I tried to name this repo something random so other people wouldn't find it and take it.
+
 # <a href="https://slow-roads.pages.dev" target="_blank">PLAY HERE</a>
