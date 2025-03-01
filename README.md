@@ -1,8 +1,8 @@
 # Slow Roads
-Credit to [Anslo]([https://anslo.dev]) for making Slow Roads.
+Credit to <a href="https://anslo.dev" target="_blank">Anslo</a>for making Slow Roads.
 
-No changes were made to this project. Listed under [CC BY-NC-ND 4.0]([https://creativecommons.org/licenses/by-nc-nd/4.0/]) copyright lincense. 
+No changes were made to this project. Listed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>copyright lincense. 
 
-Contact @swarthyleader80 on discord or make an issue on github if you want this taken down.
+Contact @Swarthyleader80 on discord, or make an issue on github if you want this taken down.
 
-# [Play Here]([https://slow-roads.pages.dev])
+# <a href="https://slow-roads.pages.dev" target="_blank">PLAY HERE</a>
