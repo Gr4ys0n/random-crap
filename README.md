@@ -5,9 +5,7 @@ No changes were made to this project. Listed under <a href="https://creativecomm
 
 Current version from 3/1/2025
 
-This will only work if you host it on cloudflare pages
-
-I tried to name this repo something random so other people wouldn't find it and take it
+This will only work if you host it on cloudflare pages or name the repo "your github name".github.io
 
 The only purpose of this is to have slowroads unblocked
 
